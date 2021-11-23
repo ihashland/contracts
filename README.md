@@ -1,2 +1,2 @@
 # contracts
-哈希世界游戏合约源码（角色、装备、技能、背包、宠物、繁衍）
+Mystery box, Heros, Equipment, Skills, Bag, Pets, Breeding）
